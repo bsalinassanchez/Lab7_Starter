@@ -49,7 +49,7 @@ function initializeServiceWorker() {
 		window.addEventListener("load", async () => {
 			try {
 				const registration = await navigator.serviceWorker.register("sw.js", {
-					scope: "Lab7_Starter",
+					scope: "/",
 				});
 				if (registration.active) {
 					console.log("registration successful");
