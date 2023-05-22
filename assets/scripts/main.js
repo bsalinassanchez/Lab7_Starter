@@ -2,6 +2,7 @@
 
 // CONSTANTS
 const RECIPE_URLS = [
+	"/index.html",
 	"https://introweb.tech/assets/json/1_50-thanksgiving-side-dishes.json",
 	"https://introweb.tech/assets/json/2_roasting-turkey-breast-with-stuffing.json",
 	"https://introweb.tech/assets/json/3_moms-cornbread-stuffing.json",
