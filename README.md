@@ -2,4 +2,4 @@
 
 Contributors: Brandon Salinas Sanchez
 
-github pages: (https://bsalinassanchez.github.io/Lab7_Starter/)[https://bsalinassanchez.github.io/Lab7_Starter/]
+github pages: [https://bsalinassanchez.github.io/Lab7_Starter/](https://bsalinassanchez.github.io/Lab7_Starter/)
